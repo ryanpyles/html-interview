@@ -1,0 +1,56 @@
+body {
+    background-image: url("https://ibb.co/H7GWjQz");
+    background-color: lightblue;
+    height: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+div {
+    border-style: solid;
+    border-color: blue;
+    border-radius: 5px;
+    padding: 25px;
+    box-shadow: 10px 10px lightblue;
+    text-align: left;
+    background-color: palegoldenrod;
+    
+}
+h2 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+}
+
+#robertSchell {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#RyanPyles {
+    font-family: "Brush Script MT", cursive;
+    text-align: center;
+}
+
+img {
+    border-radius: 50px;
+    border-style: solid;
+    border-color: black;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+a {
+   align-content: center;
+}
+
+li {
+    margin: 10px;
+    font-style: italic;
+}
